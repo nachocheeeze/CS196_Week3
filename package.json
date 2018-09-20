@@ -1,0 +1,8 @@
+{
+    "name": "week_03",
+    "author": "Nachiket <nks5@illinois.edu>",
+    "scripts": {
+      "start": "node multiply.js"
+    },
+    "license": "MIT"
+}
